@@ -5,6 +5,7 @@
 
 ## What is Google Glass?
 
+## Why Google Glass Failed
 
 ## My Experience
 Back in 2022, I was given Google Glasses and didn't know much about them. Google Glasses had plenty of great features and was outstanding during that time. I wanted to see what features I could use with the current version installed on the device today, in 2025.
@@ -29,6 +30,12 @@ After doing some research, I found the correct driver I needed for this to work.
 Once it was installed, I then had to update the glass_1 driver, browse for drivers on your computer, and then pick from a list of available drivers. I selected the newly installed driver, Android ADB Interface, and now I can start the flashing process.
 
 ![Screenshot 2025-01-01 201613](https://github.com/user-attachments/assets/10f706aa-c7b4-483a-806e-4fcc2b05c162)
+
+The first step of this process is to verify the device is in fastboot. If you see the device show up after entering this command, you can continue on with the next step.
+
+![Screenshot 2025-01-01 201220](https://github.com/user-attachments/assets/1b741de2-cfb6-4bce-856b-8e2a3e33f521)
+
+
 
 
 ## Conclusion
