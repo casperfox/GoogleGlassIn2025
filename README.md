@@ -54,7 +54,12 @@ These next commands are optional, but I wanted to erase the cache, userdata part
 
 I can now unplug Google Glass from my computer and use them!
 
-I was looking into the current features that it has, but it is very limited. You can only see the time and take photos/videos with it. Knowing it has limited features, I decided to take some photos around my town and record some videos while I was in New York City!
+I was looking into the current features that it has, but it is very limited. You can only see the time and take photos/videos with it. You can also connect to WiFi and Bluetooth devices, but there is not much you can do. They have a few other experimental features, such as winking to take photos and head nudges to turn the screen on and off. Knowing it has limited features, I decided to take some photos around my town and record some videos while I was in New York City!
+
+https://github.com/user-attachments/assets/3e2acebc-a34e-43a8-80f7-7ab7196aed11
+
+
+
 
 ## Conclusion
 At the time of its release, Google Glass was a special product and a first of its kind. Unfortunately, it didn't change the world like it hoped to. It was a very special device that paved the way for the future of glasses technology. Meta's Ray-Ban has similar features to what Google Glass had, but with full frames and not only see a screen in the corner. It was fun learning more about them and using them to record videos during my travels. I learned more about flashing devices and about Android (which is basically what Google Glass is using). Thanks for reading! Stay tuned for more projects coming soon!
